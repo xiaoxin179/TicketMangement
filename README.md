@@ -7,11 +7,13 @@
 
 前端界面展示
 
-![image-20230714220641264](C:\Users\XIAOXIN\AppData\Roaming\Typora\typora-user-images\image-20230714220641264.png)
+![image-20230714220641264](C:\我的学习项目\TicketMangement\img\image-20230714220641264.png)
 
-![image-20230714220832089](C:\Users\XIAOXIN\AppData\Roaming\Typora\typora-user-images\image-20230714220832089.png)
+![image-20230714220832089](C:\我的学习项目\TicketMangement\img\image-20230714220832089.png)
 
-![image-20230714220853005](C:\Users\XIAOXIN\AppData\Roaming\Typora\typora-user-images\image-20230714220853005.png)
+![image-20230714220853005](C:\我的学习项目\TicketMangement\img\image-20230714220853005.png)
+
+
 
 
 
@@ -33,11 +35,15 @@ sevlet+jdbc+vue2+elementUI
 
 需要的所有的jar包都是直接存放在lib库里面，这些库在这里加上之后
 
-![image-20230714215757232](C:\Users\XIAOXIN\AppData\Roaming\Typora\typora-user-images\image-20230714215757232.png)
+![image-20230714215757232](C:\我的学习项目\TicketMangement\img\image-20230714215757232.png)
+
+
 
 需要点击jar包让项目可以能够识别这些依赖
 
-![image-20230714220407521](C:\Users\XIAOXIN\AppData\Roaming\Typora\typora-user-images\image-20230714220407521.png)
+![image-20230714220407521](C:\我的学习项目\TicketMangement\img\image-20230714220407521.png)
+
+
 
 之后后端基本上就可以跑起来
 
