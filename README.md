@@ -7,11 +7,11 @@
 
 前端界面展示
 
-![image-20230714220641264](./img/)
+![image-20230714220641264](./img/1.png)
 
-![image-20230714220832089](C:\我的学习项目\TicketMangement\img\image-20230714220832089.png)
+![image-20230714220832089](./img/2.png)
 
-![image-20230714220853005](C:\我的学习项目\TicketMangement\img\image-20230714220853005.png)
+![image-20230714220853005](./img/3.png)
 
 
 
