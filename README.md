@@ -7,7 +7,7 @@
 
 前端界面展示
 
-![image-20230714220641264](C:\我的学习项目\TicketMangement\img\image-20230714220641264.png)
+![image-20230714220641264](./img/)
 
 ![image-20230714220832089](C:\我的学习项目\TicketMangement\img\image-20230714220832089.png)
 
